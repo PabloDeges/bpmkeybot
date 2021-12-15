@@ -8,4 +8,4 @@ https://twitter.com/bpmkeybot
 
 > bot ended 30.10.21
 
-coded w/ help by Nils Förster
+coded together w/ Nils Förster
